@@ -20,6 +20,7 @@ body {
   background: linear-gradient(to top left, #28b487, #7dd56f);
 }
 
+/* open and close modal */
 .show-modal {
   font-size: 2rem;
   font-weight: 600;
@@ -82,7 +83,7 @@ h1 {
   z-index: 5;
 }
 
-
+/* the button yen & no */
 .buttons{
   position:absolute;
   right:40%;
